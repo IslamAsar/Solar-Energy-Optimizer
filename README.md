@@ -312,15 +312,15 @@ Solar Energy Optimizer/
 │   ├── svm_decision_boundary.png             # SVM decision-boundary plot
 │   ├── random_forest_importance_tree.png     # Feature importance and tree structure
 │   └── confusion_matrices_comparison.png     # ML benchmark confusion matrices
-├── arduino_serial_bridge/                          # Supporting Arduino/serial bridge resources
+├── arduino_serial_bridge/                    # Supporting Arduino/serial bridge resources
 ├── flask_api_server.py                       # Flask API and dashboard for live telemetry + AI diagnosis
 ├── serial_bridge.py                          # Reads serial sensor data and forwards it to the API
-├── sensor_dashboard.ipynb                          # Interactive monitoring notebook
-├── train_ml_pipeline.ipynb                         # Training, evaluation, and artifact export notebook
-├── sensor_log.csv                                  # Historical telemetry log and state annotations
-├── solar_optimizer_model.pkl                       # Trained ML model artifact
-├── solar_scaler.pkl                                # StandardScaler fitted object
-└── Solar Energy Optimizer.pdsprj                   # Proteus project file for the solar simulation
+├── sensor_dashboard.ipynb                    # Interactive monitoring notebook
+├── train_ml_pipeline.ipynb                   # Training, evaluation, and artifact export notebook
+├── sensor_log.csv                            # Historical telemetry log and state annotations
+├── solar_optimizer_model.pkl                 # Trained ML model artifact
+├── solar_scaler.pkl                          # StandardScaler fitted object
+└── Solar Energy Optimizer.pdsprj             # Proteus project file for the solar simulation
 ```
 
 ---
